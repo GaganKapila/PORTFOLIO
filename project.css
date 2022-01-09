@@ -1,0 +1,426 @@
+body{
+  background-color: #FFCCCC;
+}
+#adminn{
+margin-left: 22%;
+margin-top: 5%;
+
+  background-color: #FFCCCC ;
+  position: relative;
+  height: 100%;
+  text-transform: uppercase;
+  overflow: auto;
+  font-size: 27px;
+  font-weight: bold;
+  font-family: 'Caveat', cursive;
+   border: 2px solid #000000;
+   border-radius: 25px;
+   padding: 25%;
+}
+.img{
+  margin-left: 25%;
+}
+#two{
+  font-size: 70px;
+}
+a{
+  color: #000000;
+  text-decoration: none;
+
+
+}
+a:hover{
+  color: white;
+  background-color: #727272;
+}
+#Contact{
+  width: 80%;
+  margin-top: 10%;
+  
+  font-size: 28px;
+  padding: 0px 10px;
+  margin-left: 19%;
+  border: 4px solid #5E0202;
+  border-radius: 25px;
+  color: black;
+}
+form{
+  margin-left: 4%;
+}
+.cc{
+   text-transform: uppercase;
+    font-family: 'Otomanopee One', sans-serif;
+    font-weight: bold;
+     text-shadow: 1px 3px #F0FC85;
+     color: #000000;
+     text-align: center;
+}
+
+.one {
+  margin: 0;
+  padding: 0;
+  width: 310px;
+  background-color: #FFCCCC ;
+  position: fixed;
+  height: 100%;
+  text-transform: uppercase;
+  overflow: auto;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Caveat', cursive;
+
+
+}
+.gagan{
+   text-transform: uppercase;
+    font-family: 'Otomanopee One', sans-serif;
+    font-weight: bold;
+     text-shadow: 1px 3px #F0FC85;
+     color: #000000;
+}
+
+img{
+  margin-left: 15%;
+  margin-top: 0%;
+}
+
+ .h1{
+
+ margin-left: 40%;
+ font-weight: bold;
+ color: #000000;
+ text-transform: uppercase;
+ font-size: 50px;
+ text-shadow: 1px 3px #F0FC85;
+ font-family: 'Otomanopee One', sans-serif;
+
+}
+.h2{
+  text-align: center;
+ font-weight: bold;
+ color: #000000;
+ text-transform: uppercase;
+ font-size: 50px;
+text-shadow: 2px 2px #F0FC85;
+ font-family: 'Otomanopee One', sans-serif;
+}
+
+.subh,.lead{
+  margin-bottom: 2%;
+ margin-left: 25%;
+ font-weight: bold;
+ font-size: 20px;
+ color: #000000 ;
+font-family: 'Caveat', cursive;
+border: 2px #000000 solid;
+border-radius: 25px;
+
+}
+.subh{
+  font-size: 30px;
+  padding: 4%;
+}
+.lead{
+  
+  padding-top: 1%;
+  font-size: 30px;
+  padding: 7%;
+}
+
+
+.one a {
+  display: block;
+  color: #000000;
+  padding: 16px;
+  text-decoration: none;
+}
+
+
+.one a.active {
+  background-color: #26E116 ;
+  color: blue;
+}
+
+/* Links on mouse-over */
+.one a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+
+
+.fa {
+  padding: 20px;
+  font-size: 30%;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px;
+  margin-left: 25%;
+  margin-top: 10%;
+  white-space: 0px;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  height: 40px;
+  width: 70px;
+  font-size: 50px;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  height: 40px;
+  width: 70px;
+}
+.fa-linkedin {
+  background: #55ACEE;
+  color: white;
+  height: 40px;
+  width: 70px;
+}
+ 
+#education{
+
+  margin-top: 2%;
+ margin-left: 25%;
+ font-weight: bold;
+ font-size: 30px;
+ color: #ABB1B5  ;
+font-family: 'Caveat', cursive;
+  
+}
+
+#three{
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #000000;
+ font-size: 50px;
+ text-shadow: 1px 3px #F0FC85;
+ font-family: 'Otomanopee One', sans-serif;
+ text-align: center;
+
+}
+#college{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 25px;
+ color: #000000  ;
+font-family: 'Caveat', cursive;
+ border-radius: 25px;
+  border: 2px solid #000000;
+  padding: 20px; 
+  width: 100%;
+  height: 100%;
+  margin-bottom: 5%;
+  
+}
+
+#school{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 25px;
+ color: #000000  ;
+font-family: 'Caveat', cursive;
+ border-radius: 25px;
+  border: 2px solid #000000;
+  padding: 20px; 
+  width: 100%;
+  height: 100%;
+}
+#img{
+  float: right;
+  margin-top: -250px;
+}
+
+.five {
+  width: 80%;
+  height: 80%;
+  background-color: #FFCCCC;
+  position: relative;
+  margin-left: 20%;
+  font-size: 50px;
+margin-bottom: 2%;
+  text-transform: uppercase;
+  text-align: center;
+  animation: example 4s infinite;
+  animation-play-state:running;
+}
+
+
+  @keyframes example {
+  0%   {background-color:#FFCCCC; left:0px;}
+  25%  {background-color:#FFCCCC; left:150px;}
+    }
+
+
+.collapsible {
+  background-color: #FFCCCC;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 80%;
+  margin-left: 20%;
+  border: none;
+  text-align: center;
+  text-transform: uppercase;
+  outline: none;
+  font-size: 45px;
+  font-family: 'Otomanopee One', sans-serif;
+  margin-bottom: 5%;
+}
+
+
+.active, .collapsible:hover {
+  background-color: #555;
+  color: #FFFFFF;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.conten {
+  
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  width: 80%;
+  text-align: center;
+  margin-left: 20%;
+  font-size: 40px;
+  margin-bottom: 5%;
+  font-family: 'Caveat', cursive;
+ 
+    
+}
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: relative;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+ color: #000000  ;
+  font-size: 55px;
+  padding: 8px 12px;
+  position:relative;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+   font-family: 'Caveat', cursive;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 700px) {
+  .one {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .one a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+
+@media screen and (max-width: 400px) {
+  .one a {
+    text-align: center;
+    float: none;
+  }
+}
